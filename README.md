@@ -52,16 +52,6 @@ This repo tracks my coursework for the semester. Suggested organization (adjust 
 └── README.md
 ```
 
-## Grade Distribution
-
-| Component | Weight |
-|---|---|
-| In-Class Exercises | 10% |
-| Assignments | 20% |
-| Project 1 | 20% |
-| Project 2 | 20% |
-| Final Project | 30% |
-
 ## Tentative Schedule
 
 | Week | Date | Topic |
