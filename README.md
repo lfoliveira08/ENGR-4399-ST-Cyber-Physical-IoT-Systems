@@ -2,17 +2,6 @@
 
 Coursework repository for **ENGR 4399 ST: Cyber-Physical and IoT Systems** — Fall 2026, University of the Incarnate Word.
 
-## Course Information
-
-| | |
-|---|---|
-| **Instructor** | Dr. Okan Çağlayan (pronounced *Chah·la·yahn*) |
-| **Office** | Founders Hall (FH) 2035 |
-| **Email** | caglayan@uiwtx.edu |
-| **Phone** | (210) 832-2118 |
-| **Office Hours** | Mon & Wed: 1:30–2:30 pm · Tue & Thu: 10:30–11:30 am (additional hours by appointment) |
-| **Lecture** | Tue & Thu, 1:30–2:45 pm — Founders Hall (FH) 2020 |
-
 ## Course Description
 
 This special topics course introduces the design, implementation, and operation of cyber-physical systems (CPS) and IoT systems through hands-on ESP32 development. Intended for a multidisciplinary audience — Engineering, Computer Information Systems, and Cybersecurity students working in mixed teams — it integrates wireless communication, sensor networks, embedded real-time software, security, and cloud/edge computing to design and deploy IoT/CPS architectures for operational technology (OT) environments such as IIoT, smart cities, connected health, V2X, and smart buildings.
