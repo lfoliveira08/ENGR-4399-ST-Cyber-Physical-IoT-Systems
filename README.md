@@ -82,3 +82,16 @@ Team-based design and implementation of an embedded or cyber-physical system inc
 ---
 
 *This README summarizes the official course outline for ENGR 4399 ST (Fall 2026). It is a personal coursework repository and is not an official University of the Incarnate Word document. For authoritative policies, schedules, and updates, see Canvas.*
+
+## Assignments
+
+| Folder | Description | Wokwi |
+|---|---|---|
+| [`snake-game/`](snake-game/) | ESP32 Snake game with SSD1306 OLED and joystick | [Project](https://wokwi.com/projects/475718288309291009) |
+| [`SAR3-crypto-ticker/`](SAR3-crypto-ticker/) | ESP32 WiFi + HTTPS + JSON cryptocurrency price ticker (CoinGecko API, I2C LCD) | [Project](https://wokwi.com/projects/477159033618258945) |
+
+Each assignment folder contains its Arduino source, Wokwi `diagram.json`, library list and a README.
+
+## Author
+
+Luis de Oliveira, University of the Incarnate Word, Fall 2026.
