@@ -1,0 +1,15 @@
+Connecting to Wokwi-GUEST......
+Connected! IP: 10.10.0.2
+
+[HTTP] GET CoinGecko ...
+[HTTP] Status code: 200
+[JSON] Parsed prices:
+  BTC : $85533.00 (-0.08% 24h)
+  ETH : $2691.83 (-0.60% 24h)
+  SOL : $120.83 (+0.69% 24h)
+[JSON] Report: {"device":"esp32-ticker-01","uptime_s":11,"coins":[{"symbol":"BTC","usd":85533,"change_24h":-0.084419,"trend":"down"},{"symbol":"ETH","usd":2691.83,"change_24h":-0.596953,"trend":"down"},{"symbol":"SOL","usd":120.83,"change_24h":0.68688,"trend":"up"}]}
+[BTN] Selected ETH
+[BTN] Selected SOL
+[BTN] Selected BTC
+[BTN] Selected ETH
+[BTN] Selected SOL
